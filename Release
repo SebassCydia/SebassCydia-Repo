@@ -1,0 +1,8 @@
+Origin: SebassCydia Repo
+Label: SebassCydia Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Hello welcome to my repo, it has a lot of stuff and I hope u enjoy ;)
